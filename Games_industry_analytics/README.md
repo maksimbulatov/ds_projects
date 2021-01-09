@@ -1,19 +1,19 @@
 # ds_projects
 
-# Анализ рынка игр для предсказания продаж в следующем году.
+# Game market analysis to predict next year's sales.
 
 
-## Цель
+## Aim
 
-Предсказать продажи компьтерных игр на будущий год, основываясь данных об играх за тякущий год. 
-В наличии были данные о играх за 2016 год: название игры, жанр, продажи по разным регионам мира, платформа игры, оценки критиков и другие параметры. 
+Predict computer game sales for the next year based on game data for the current year. 
+We had game data for 2016: game name, genre, sales by different regions of the world, game platform, critics' scores and other parameters. 
 
-## Результат
+## Results
 
-Проанализировав данные и проведя статистические тесты Стьюдента, мы пришли к выводу, что самые успешные игры находяться в жанрах экшен и спорт на платформах PS4 и XOne. 
-Мнение экспертов по играм коррелирует с высокими продажами.
+After analyzing the data and conducting statistical t-tests, we came to the conclusion that the most successful games are in the action and sports genres on PS4 and XOne platforms. 
+The opinion of experts on games correlates with high sales.
 
-## Стек
+## Libraries
 *pandas*
 *pylab*
 *matplotlib*
@@ -21,5 +21,5 @@
 *numpy*
 *scipy*
 
-## Статус
-Проект завершен
+## Status
+Project done
