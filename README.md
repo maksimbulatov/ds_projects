@@ -1,11 +1,12 @@
 # ds_projects
 
-Репозиторий для проектов на Яндекс.Практикум
+Repository for projects on Yandex.Practikum
 
-## Описание проектов
+## Projects description
 
-Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".
+These projects were carried out in the course of training at Yandex.Practikum, course "Data Science Specialist.
 
-| Название проекта | Описание | Используемые библиотеки | 
+| Project name | Description | Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Анализ рынка игр](Games_industry_analytics) | Анализ данных игровой индустрии для предсказания продаж на следующий год| *pandas* *pylab* *matplotlib* *seaborn* *numpy* *scipy*|
+| [Games industry analytics](Games_industry_analytics) | Game industry data analysis to predict next year's sales| *pandas* *pylab* *matplotlib* *seaborn* *numpy* *scipy*|
+| [Clients chrun prediction in telecom company](Telecom_churn_prediction) | Telecom company - prediction of clients churn| *pandas* *pylab* *matplotlib* *seaborn* *numpy* *scipy* *statsmodel* *sklearn* *lightgmb*|
